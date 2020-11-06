@@ -129,6 +129,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -151,11 +152,17 @@
       <updated>1604676338964</updated>
       <workItem from="1604676341155" duration="1161000" />
       <workItem from="1604677578669" duration="79000" />
-      <workItem from="1604677667638" duration="2653000" />
+      <workItem from="1604677667638" duration="4852000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="204" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604682439371">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="204" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.10.1920.1080@1920.0.1920.1080" timestamp="1604682439371" />
   </component>
 </project>
