@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882fdede-6c1d-4715-9fcb-e373829dce1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d5e2e47-236e-4330-8025-eb8d92ff962d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9d5e2e47-236e-4330-8025-eb8d92ff962d.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,8 @@
       <workItem from="1604676341155" duration="1161000" />
       <workItem from="1604677578669" duration="79000" />
       <workItem from="1604677667638" duration="4852000" />
-      <workItem from="1604733296740" duration="2843000" />
+      <workItem from="1604733296740" duration="4401000" />
+      <workItem from="1604912974406" duration="5184000" />
     </task>
     <servers />
   </component>
@@ -175,5 +173,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="204" width="810" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.10.1920.1080@1920.0.1920.1080" timestamp="1604682439371" />
+    <state x="2613" y="300" width="534" height="487" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604928339643">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="300" width="534" height="487" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1080/0.10.1920.1080@1920.0.1920.1080" timestamp="1604928339643" />
   </component>
 </project>
